@@ -1,2 +1,2 @@
 # SomPy
-Control Somfy stuuf with raspberry
+Control Somfy stuff with raspberry
